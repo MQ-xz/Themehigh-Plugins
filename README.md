@@ -6,9 +6,9 @@ List of our free WordPress plugins
 WooCommerce Checkout Field Editor (Checkout Manager) Plugin lets you add 20 different types of custom checkout fields to your Checkout page, blended with a simple and user-friendly interface.
 
  - Author : [ThemeHigh](https://www.themehigh.com/?utm_source=our_git_repo)
- - Latest version : 1.7.2
- - Last updated : 2022-09-07 12:10pm GMT
- - Downloaded : 4659837
+ - Latest version : 2.1.4
+ - Last updated : 2025-05-12 8:54am GMT
+ - Downloaded : 8960985
 
 [Download](https://wordpress.org/plugins/woo-checkout-field-editor-pro/) | [Try Demo](https://flydemos.com/wcfe/?utm_source=our_git_repo) | [Documentation](https://www.themehigh.com/docs/category/checkout-field-editor-for-woocommerce/?utm_source=our_git_repo) | [Official site](https://www.themehigh.com/product/woocommerce-checkout-field-editor-pro/?utm_source=our_git_repo)
 
@@ -16,9 +16,9 @@ WooCommerce Checkout Field Editor (Checkout Manager) Plugin lets you add 20 diff
 The WooCommerce Extra Product Options (WooCommerce Product Addons) plugin lets you add custom product fields(19 field types) and sections to your product page, making your WooCommerce product page more functional.
 
  - Author : [ThemeHigh](https://www.themehigh.com/?utm_source=our_git_repo)
- - Latest version : 3.1.7
- - Last updated : 2022-09-13 12:48pm GMT
- - Downloaded : 568801
+ - Latest version : 3.3.2
+ - Last updated : 2025-04-24 10:35am GMT
+ - Downloaded : 1007219
 
 [Download](https://wordpress.org/plugins/woo-extra-product-options/) | [Try Demo](https://flydemos.com/wepo/?utm_source=our_git_repo) | [Documentation](https://www.themehigh.com/docs/category/extra-product-option-for-woocommerce/?utm_source=our_git_repo) | [Official site](https://www.themehigh.com/product/woocommerce-extra-product-options/?utm_source=our_git_repo)
 
